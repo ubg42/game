@@ -10,4 +10,4 @@ Click [here](https://ubg42.github.io/Gameez/cannon-basketball-4/) for Cannon Bas
 
  <hr>
 
-FROM  http://greatemathgame.com/
+FROM  https://www.greatmathgame.com/
