@@ -1,7 +1,7 @@
 # Cannon Basketball
 <hr>
 
-# Demos
+# GAMES
 Click [here](https://ubg42.github.io/Gameez/cannon-basketball/) for Cannon Basketball 1!<br>
 Click [here](https://ubg42.github.io/Gameez/cannon-basketball-2/) for Cannon Basketball 2!<br>
 Click [here](https://ubg42.github.io/Gameez/cannon-basketball-3/) for Cannon Basketball 3!<br>
